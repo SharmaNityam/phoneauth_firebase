@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC_8s1fNNjwFZZ42QP29OuxpRY2hTpzRFY',
+    apiKey: 
     appId: '1:431136500893:web:2688570b7e1db53cd6b874',
     messagingSenderId: '431136500893',
     projectId: 'phoneauth-5d330',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDl2iFLGfKQXQTOgtmvNjE_ZucwB_-QFJ8',
+    apiKey: 
     appId: '1:431136500893:android:5487a122879639c4d6b874',
     messagingSenderId: '431136500893',
     projectId: 'phoneauth-5d330',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB6cO89QwFhOBOZjRiM1pc07upf1HCNjF0',
+    apiKey:,
     appId: '1:431136500893:ios:e6b0a1b7160437ead6b874',
     messagingSenderId: '431136500893',
     projectId: 'phoneauth-5d330',
